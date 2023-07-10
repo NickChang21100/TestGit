@@ -1,0 +1,6 @@
+D:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_shell.c:41:27:cause_to_string	0	static
+D:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_shell.c:94:13:print_all_reset_causes	16	static
+D:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_shell.c:104:12:cmd_show_reset_cause	24	static
+D:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_shell.c:151:12:cmd_supported_reset_cause	24	static
+D:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_shell.c:132:12:cmd_clear_reset_cause	16	static
+D:/ncs/v2.2.0/zephyr/drivers/hwinfo/hwinfo_shell.c:13:12:cmd_get_device_id	32	static
